@@ -15,7 +15,6 @@ daily-task-tracker
 
 index.html # Main HTML file containing structure, styles, and logic
 
-README.md  # Project documentation
 
-assets    # (Optional) Folder for future images, icons, or external styles/scripts
+
 
